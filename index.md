@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 동국대학교 교육대학원 AI융합교육전공 2020128041 박혜인
 ## Header 2
 ### Header 3
 
