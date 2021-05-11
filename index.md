@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 육쌈봇
 
 You can use the [editor on GitHub](https://github.com/Hannapark1122/63bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
