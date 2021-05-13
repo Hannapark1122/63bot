@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # 동국대학교 교육대학원 AI융합교육전공 2020128041 박혜인
-## Header 2
+## 서울 서일초등학교 육쌈반 학생들에게 학급 규칙을 알려주는 친절하고 상냥한 챗봇입니다.
 ### Header 3
 
 - Bulleted
