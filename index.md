@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # 동국대학교 교육대학원 AI융합교육전공 2020128041 박혜인
 ## 서울 서일초등학교 육쌈반 학생들에게 학급 규칙을 알려주는 친절하고 상냥한 챗봇입니다.
-### Header 3
+### 육쌈봇에게 바르고 고운 말을 사용해주세요^^
 
 - Bulleted
 - List
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
