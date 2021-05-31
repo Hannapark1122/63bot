@@ -4,7 +4,5 @@
 서울 서일초등학교 육쌈반 학생들에게 학급 규칙을 알려주는 친절하고 상냥한 챗봇입니다.
 육쌈봇에게 바르고 고운 말을 사용해주세요^^
 
-[Link](<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>) and ![Image](src)
-
 ```
 ![noodles](https://user-images.githubusercontent.com/82355513/118577962-4856fc80-b7c6-11eb-83ac-db31dc952715.png)
