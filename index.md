@@ -1,40 +1,10 @@
 ## 육쌈봇
 
-You can use the [editor on GitHub](https://github.com/Hannapark1122/63bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-# 동국대학교 교육대학원 AI융합교육전공 2020128041 박혜인
-## 서울 서일초등학교 육쌈반 학생들에게 학급 규칙을 알려주는 친절하고 상냥한 챗봇입니다.
-### 육쌈봇에게 바르고 고운 말을 사용해주세요^^
+동국대학교 교육대학원 AI융합교육전공 2020128041 박혜인
+서울 서일초등학교 육쌈반 학생들에게 학급 규칙을 알려주는 친절하고 상냥한 챗봇입니다.
+육쌈봇에게 바르고 고운 말을 사용해주세요^^
 
 [Link](<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>) and ![Image](src)
 
 ```
 ![noodles](https://user-images.githubusercontent.com/82355513/118577962-4856fc80-b7c6-11eb-83ac-db31dc952715.png)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hannapark1122/63bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
