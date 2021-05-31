@@ -6,4 +6,4 @@
 
 육쌈봇에게 바르고 고운 말을 사용해주세요^^
 
-<center><image src=![noodles](https://user-images.githubusercontent.com/82355513/118577962-4856fc80-b7c6-11eb-83ac-db31dc952715.png)></center>
+<center>![noodles](https://user-images.githubusercontent.com/82355513/118577962-4856fc80-b7c6-11eb-83ac-db31dc952715.png)</center>
