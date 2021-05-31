@@ -24,6 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>) and ![Image](src)
+<center><img src="/"https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" width="300" height="300"></center>
+
 ```
 ![noodles](https://user-images.githubusercontent.com/82355513/118577962-4856fc80-b7c6-11eb-83ac-db31dc952715.png)
 
